@@ -1,2 +1,8 @@
 Welcome to the qbot wiki!
-Select a page on the right to open it.
+
+Click a page below to go to it:
+[Setup](https://github.com/yogurtsyum/qbot/wiki/Setup)
+
+[Hosting](https://github.com/yogurtsyum/qbot/wiki/Hosting)
+
+[Common Errors](https://github.com/yogurtsyum/qbot/wiki/Common-Errors)
