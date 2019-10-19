@@ -12,6 +12,9 @@
 
 # Thanks for reading!
 While you are at it, please join my Discord and subscribe to my channel! ❤️ 
+
 Discord: https://discord.gg/5T3Ed83
+
 Youtube: https://www.youtube.com/channel/UCscJQWFAvn2Mus-ykslGrFg
+
 If you need any help, there are a ton of helpful people on my Discord that can help you out.
