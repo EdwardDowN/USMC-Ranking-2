@@ -28,7 +28,7 @@ To do this you will need to first enable Developer Mode if it isn't already by g
 ## verifytoggle
 If you want the verification feature to be enabled, type `true`. If you want the verification feature to be disabled, type `false`. Enabling the verification features requires you to have a Redis, MongoDB, SQLite, PostgreSQL, or MySQL database.
 ## db
-**Leave this blank if you set `verifytoggle` to `false`.** Enter the Redis, MongoDB, SQLite, PostgreSQL, or MySQL Database URL for verification.
+**If you set `verifytoggle` to `false`, set this to `false`.** Enter the Redis, MongoDB, SQLite, PostgreSQL, or MySQL Database URL for verification.
 
 # How to bind Roblox roles with a Discord role
 **Note: This is a verification feature. Please only do this if you set `verifytoggle` to `true`. And even if you did set `verifytoggle` to `true`, this is optional.**
