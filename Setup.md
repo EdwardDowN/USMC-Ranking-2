@@ -1,4 +1,3 @@
-
 # Install node.js if you haven't.
 First, you must install node.js at https://nodejs.org/ if you haven't already installed it before. Make sure you have restarted your computer when you are done installing it.
 
@@ -42,12 +41,16 @@ For example, if there was a Roblox role named `Mod` and its rank number/ID was `
 
 MySQL:
 `npm install @keyv/mysql`
+
 Redis:
 `npm install @keyv/redis`
+
 MongoDB:
 `npm install @keyv/mongo`
+
 SQLite:
 `npm install @keyv/sqlite`
+
 PostgreSQL:
 `npm install @keyv/postgres`
 
@@ -60,6 +63,9 @@ Launching the bot is easy as well, just type the following command into the comm
 
 # Thanks for reading!
 While you are at it, please join my Discord and subscribe to my channel! ❤️ 
+
 Discord: https://discord.gg/5T3Ed83
+
 Youtube: https://www.youtube.com/channel/UCscJQWFAvn2Mus-ykslGrFg
+
 If you need any help, there are a ton of helpful people on my Discord that can help you out.
